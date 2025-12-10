@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Rafael França, tenho 24 anos e sou natural de SP. Pós gradualo pelo Mackenzie, com especialização em Design Thinking e Desenvolvimento Ágil. Atualmente, estou mestrando Inovação e Empreendedorismo na HEC-Paris. Sou apaixonado por tecnologia e experiência do usuário. 
+Me chamo Rafael França, tenho 24 anos e sou natural de SP. Pós gradualo pelo Mackenzie, com especialização em Design Thinking e Desenvolvimento Ágil. Atualmente, estou desenvolvendo minha carreira de Growth Product Owner. Sou apaixonado por tecnologia e experiência do usuário. 
     <a href="https://www.youtube.com/@rafapokas?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
